@@ -4167,7 +4167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NY Raw" id="jZx4MhajBjp-XXRH0XMl">
-    <mxGraphModel dx="1404" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1872" dy="2534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="J7i6tXpmNZBW7Nl9rb06-0" />
         <mxCell id="J7i6tXpmNZBW7Nl9rb06-1" parent="J7i6tXpmNZBW7Nl9rb06-0" />
@@ -4430,7 +4430,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J7i6tXpmNZBW7Nl9rb06-72" value="videnskabeligtomraade" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;shadow=0;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="J7i6tXpmNZBW7Nl9rb06-1" vertex="1">
-          <mxGeometry x="1690" y="-380" width="262" height="180" as="geometry" />
+          <mxGeometry x="1678.5" y="-380" width="262" height="180" as="geometry" />
         </mxCell>
         <mxCell id="J7i6tXpmNZBW7Nl9rb06-73" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="J7i6tXpmNZBW7Nl9rb06-72" vertex="1">
           <mxGeometry y="30" width="262" height="30" as="geometry" />
@@ -5785,7 +5785,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nUlBKp955Zpq9on-cAWn-0" value="groenforskning" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;shadow=0;rounded=1;" parent="J7i6tXpmNZBW7Nl9rb06-1" vertex="1">
-          <mxGeometry x="1670" y="10" width="263" height="150" as="geometry" />
+          <mxGeometry x="1678.5" y="20" width="263" height="150" as="geometry" />
         </mxCell>
         <mxCell id="nUlBKp955Zpq9on-cAWn-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;shadow=0;" parent="nUlBKp955Zpq9on-cAWn-0" vertex="1">
           <mxGeometry y="30" width="263" height="30" as="geometry" />
@@ -5865,7 +5865,7 @@
             <mxPoint x="1190" y="975" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1660" y="-535" />
-              <mxPoint x="1660" y="85" />
+              <mxPoint x="1660" y="95" />
             </Array>
           </mxGeometry>
         </mxCell>
