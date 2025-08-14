@@ -4587,7 +4587,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J7i6tXpmNZBW7Nl9rb06-139" value="Abbrevations" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="J7i6tXpmNZBW7Nl9rb06-1" vertex="1">
-          <mxGeometry x="1801.5" y="-580" width="140" height="130" as="geometry" />
+          <mxGeometry x="1780" y="-580" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="J7i6tXpmNZBW7Nl9rb06-140" value="PK: Primary Key" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="J7i6tXpmNZBW7Nl9rb06-139" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
